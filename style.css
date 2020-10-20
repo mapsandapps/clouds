@@ -1,0 +1,28 @@
+body {
+  background-color: #eee;
+  color: #333;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+  line-height: 1.6;
+  margin: 20px;
+  max-width: 600px; /* TODO: what should this be? */
+}
+
+h1, h2, h3 {
+  font-family: 'Julius Sans One', sans-serif;
+  line-height: 1.2;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  body {
+    color:#eee;
+    background:#222;
+  }
+
+  a:link {
+    color: #9EB5F5;
+  }
+  a:visited {
+    color: #CCA5F3;
+  }
+} */
